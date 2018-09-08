@@ -4,7 +4,7 @@ Script para máquinas CoreOS
 
 **install_docker-compose-latest.sh**
 
-Script que instala la última versión de docker-compose en CoreOS
+Script que instala la última versión de ***docker-compose*** en CoreOS
 
 
 **install_micro-editor-terminal.sh**
